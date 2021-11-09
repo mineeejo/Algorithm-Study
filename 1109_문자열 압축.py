@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 def solution(x):
     resultx = ''
     minLen = len(x)
@@ -28,4 +22,3 @@ def solution(x):
         resultx = ''
 
     return minLen
-
